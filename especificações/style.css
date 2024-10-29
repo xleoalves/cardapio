@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(24, 24, 24);
+    color: white;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+}
+
+#tittle{
+    font-family: poppinsregular, sans-serif;
+    flex-direction: column;
+    line-height: 10px;
+    font-size: 27px;
+}
+
+span{
+    color: yellow;
+}
+
+#cardapio2{
+    font-size: 25px;
+}
+
+#cardapio{
+    line-height: 6px;
+    font-size: 20px;
+
+}
+
+li{
+    display: inline-block;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: yellow;
+}
+
+img{
+    width: 350px;
+
+}
+
